@@ -32,5 +32,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paulo-santos-ds&" alt="paulo-santos-ds" /></p>
 
-[! [leia-me] (https://github-readme-stats.vercel.app/api/pin/?username=ELLEN2121&repo=paulo-santos-ds&theme=react)] (https://github.com/paulo-santos-ds)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=paulo-santos-ds&repo=paulo-santos-ds&theme=react)] (https://github.com/paulo-santos-ds)
 
