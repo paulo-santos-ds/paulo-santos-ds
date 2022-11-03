@@ -33,7 +33,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paulo-santos-ds&" alt="paulo-santos-ds" /></p>
 
 <div>
-  ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/paulo-santos-ds/blob/output/github-contribution-grid-snake.svg)
 </div>
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=paulo-santos-ds&repo=paulo-santos-ds&theme=react)] (https://github.com/paulo-santos-ds)
 
