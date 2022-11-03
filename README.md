@@ -29,7 +29,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulo-santos-ds&show_icons=true&locale=en&layout=compact" alt="paulo-santos-ds" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paulo-santos-ds&show_icons=true&locale=en" alt="paulo-santos-ds" /></p>
-
+![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paulo-santos-ds&" alt="paulo-santos-ds" /></p>
 
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=paulo-santos-ds&repo=paulo-santos-ds&theme=react)] (https://github.com/paulo-santos-ds)
