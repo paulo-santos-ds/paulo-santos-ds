@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://paulo-roberto-data-science/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://paulo-roberto-data-science/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://paulo-roberto-data-science/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paulo-roberto-data-science/" height="30" width="40" /></a>
 <a href="https://medium.com/@pras.ds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pras.ds" height="30" width="40" /></a>
 </p>
 
