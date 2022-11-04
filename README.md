@@ -1,23 +1,24 @@
-<h1 align="center">Oi 👋, eu sou Paulo Roberto</h1>
-<h3 align="center">Apaixonado por análise  e ciências de dados</h3>
+<h1 align="left">Who am I</h1>
+Hi, I'm Paulo Roberto  passionate about data science and all the creativity that humans can imagine!
+I'm a real geek and I like to learn new things, i love coffe.
+I bring my strong aptitude for analytical thinking, disciplined problem-solving, collaborative style, and strong communication skills.
+
+I like a good, creative movie or TV show and I listen to music.
+Currently in career transition to Data Science.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulo-santos-ds&label=Profile%20views&color=ffffff&style=flat" alt="paulo-santos-ds" /> </p>
 
-- Trabalhando com análise e visualização de dados:   [Sistema de recomendação de musica para midias digitais](https://www.getninjas.com.br/categoria/consultoria#942348)
+- 🛠️ Working with data analysis and visualization:   [Music recommendation system for digital media](https://www.getninjas.com.br/categoria/consultoria#942348)
 
-- 🌱Atualmente estou aprendendo **Python e Machine learning**
+- 🌱 I am currently learning **Python and Machine learning**
 
-- 👯 Trabalho como analista na Positivo Tecnologia **Analista de TI**
+- 👯 I work as an IT analyst at Positivo Tecnologia
 
-- Eu escrevo artigos [https://medium.com/@pras.ds](https://medium.com/@pras.ds)
+- 💬 Ask me about Python, SQL, Power BI, Excel, Apache Airflow, Data Science
 
-- 💬 Me pergunto sobre Python,SQL,Power BI, Excel, Apache Airflow
+- 📄 Mechanical engineer by training in career transition to data: [https://github.com/paulo-santos-ds](https://github.com/paulo-santos-ds)
 
-- 📫voce me encontra através do e-mail: [pras.ds@outlook.com](pras.ds@outlook.com)
-
-- 📄 Engenheiro mecânico de formação em transição de carreira para a área de dados: [https://github.com/paulo-santos-ds](https://github.com/paulo-santos-ds)
-
-<h3 align="left">Encontre-me em outro lugar:</h3>
+<h3 align="left">Find me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/paulo-roberto-data-science" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paulo-roberto-data-science" height="30" width="40" /></a>
 <a href="https://medium.com/@pras.ds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pras.ds" height="30" width="40" /></a>
