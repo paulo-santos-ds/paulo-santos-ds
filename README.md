@@ -1,9 +1,9 @@
 <h1 align="center">Oi 👋, eu sou Paulo Roberto</h1>
-<h3 align="center">Apaixonado por análise de dados e ciências de dados</h3>
+<h3 align="center">Apaixonado por análise  e ciências de dados</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulo-santos-ds&label=Profile%20views&color=ffffff&style=flat" alt="paulo-santos-ds" /> </p>
 
-- Trabalhando com análise e visualização de dados [Sistema de recomendação de musica para midias digitais](https://www.getninjas.com.br/categoria/consultoria#942348)
+- Trabalhando com análise e visualização de dados:   [Sistema de recomendação de musica para midias digitais](https://www.getninjas.com.br/categoria/consultoria#942348)
 
 - 🌱Atualmente estou aprendendo **Python e Machine learning**
 
@@ -11,7 +11,7 @@
 
 - Eu escrevo artigos [https://medium.com/@pras.ds](https://medium.com/@pras.ds)
 
-- 💬 Me pergunto sobre **Python,SQL,Power BI, Excel, Apache Airflow**
+- 💬 Me pergunto sobre Python,SQL,Power BI, Excel, Apache Airflow
 
 - 📫voce me encontra através do e-mail: [pras.ds@outlook.com](pras.ds@outlook.com)
 
@@ -21,6 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/paulo-roberto-data-science" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paulo-roberto-data-science" height="30" width="40" /></a>
 <a href="https://medium.com/@pras.ds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pras.ds" height="30" width="40" /></a>
+<a href="outlook.com.br" target="blank"><img align="center" src="https://raw.githubusercontent.com/github-profile-readme-generator/master/src/images/icons/Social/outlook.svg" alt="pras.ds@outlook.com.br" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
