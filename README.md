@@ -112,7 +112,7 @@ Atualmente em transição de carreira para Ciência de Dados.
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Qlik_Sense_logo.png" alt="Qlik Sense" width="40" height="40"/> 
     </a>
     <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="40" height="40"/> 
+        <img src="https://commons.wikimedia.org/wiki/File:Tableau_Logo.png#/media/File:Tableau_Logo.png" alt="Tableau" width="40" height="40"/> 
     </a>
 </p>
 
