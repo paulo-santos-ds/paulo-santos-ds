@@ -123,7 +123,7 @@ Atualmente em transição de carreira para Ciência de Dados.
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=paulo-santos-ds&show_icons=true&locale=en&theme=tokyonight" alt="paulo-santos-dsh"p><img align="center"src="https://github-readme-streak-stats.herokuapp.com/?user=paulo-santos-ds&&theme=tokyonight" alt="paulo-santos-ds" /></p>
 
-# My Projects
+# Projetos
 
 Feel free to take a look at my projects below:
 
