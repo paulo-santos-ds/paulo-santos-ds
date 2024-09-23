@@ -48,7 +48,7 @@ Atualmente em transição de carreira para Ciência de Dados.
   Scikit Learn, 
   Seaborn, 
   SQLite, 
- 
+  TensorFlow, 
   XGBoost, 
   React,
 </p>
