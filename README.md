@@ -129,5 +129,5 @@ Sinta-se à vontade para dar uma olhada nos meus projetos abaixo:
 
 | Nome Projeto | Notebook e Link | Linguagem | Notas |
 | --- | --- | --- | --- |
-| Prevendo  fraude catão de credito com regressão logistica | [projeto]([https://github.com/paulo-santos-ds/MachineLearningLogisticRegression) | Python, Scikit Learn, Numpy, Seaborn |A fraude de cartão de crédito é uma forma comum de golpe que afeta milhões de pessoas em todo o mundo. Essa fraude pode ter consequências graves, tanto para as vítimas quanto para as instituições financeiras que emitem os cartões de crédito. |
+| Prevendo  fraude catão de credito com regressão logistica | [projeto]([.]) | Python, Scikit Learn, Numpy, Seaborn |A fraude de cartão de crédito é uma forma comum de golpe que afeta milhões de pessoas em todo o mundo. Essa fraude pode ter consequências graves, tanto para as vítimas quanto para as instituições financeiras que emitem os cartões de crédito. |
 | Teste A-B | [Testing_A_B]([https://www.link-to-your-project](https://github.com/paulo-santos-ds/Projects/blob/main/Testing_A_B_.ipynb)) | Python, Scikit Learn, Matplotlb, Statsmodel | O propósito do teste A/B é comparar diferentes amostras de conteúdo e design em pares. |
