@@ -127,7 +127,7 @@ Atualmente em transição de carreira para Ciência de Dados.
 
 Feel free to take a look at my projects below:
 
-| Project Name | Notebook or Link | Language | Notes |
+| Nome Projeto | Notebook e Link | Linguagem | Notas |
 | --- | --- | --- | --- |
-| Prevendo  fraude catão de credito com regressão logistica | [projeto]([https://github.com/paulo-santos-ds/MachineLearningLogisticRegression) |A fraude de cartão de crédito é uma forma comum de fraude que afeta milhões de pessoas em todo o mundo. Essa fraude pode ter consequências graves, tanto para as vítimas quanto para as instituições financeiras que emitem os cartões de crédito. |
-| Statistical Analysis and Machine Learning | [ML and Statistics](https://www.link-to-your-project) | Python, Scikit Learn | A study on trending topics in Data Science, I conducted a brief study on different topics related to Machine Learning and Data Science. |
+| Prevendo  fraude catão de credito com regressão logistica | [projeto]([https://github.com/paulo-santos-ds/MachineLearningLogisticRegression) | Python, Scikit Learn, Numpy, Seaborn |A fraude de cartão de crédito é uma forma comum de golpe que afeta milhões de pessoas em todo o mundo. Essa fraude pode ter consequências graves, tanto para as vítimas quanto para as instituições financeiras que emitem os cartões de crédito. |
+| Teste A-B | [Testing_A_B]([https://www.link-to-your-project](https://github.com/paulo-santos-ds/Projects/blob/main/Testing_A_B_.ipynb)) | Python, Scikit Learn, Matplotlb, Statsmodel | O propósito do teste A/B é comparar diferentes amostras de conteúdo e design em pares. |
