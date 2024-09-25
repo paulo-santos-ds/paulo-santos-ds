@@ -125,7 +125,7 @@ Atualmente em transição de carreira para Ciência de Dados.
 
 # Projetos
 
-Feel free to take a look at my projects below:
+Sinta-se à vontade para dar uma olhada nos meus projetos abaixo:
 
 | Nome Projeto | Notebook e Link | Linguagem | Notas |
 | --- | --- | --- | --- |
