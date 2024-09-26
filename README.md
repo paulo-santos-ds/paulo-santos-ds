@@ -53,6 +53,7 @@ Atualmente em transição de carreira para Ciência de Dados.
   React,
 </p>
 
+
 <p align="left"> 
     <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/> 
