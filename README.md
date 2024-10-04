@@ -5,6 +5,7 @@ Trago minha forte aptidão para o pensamento analítico, resolução de problema
 
 
 
+
 Gosto de um bom filme ou programa de TV criativo e ouço música.
 Atualmente em transição de carreira para Ciência de Dados.
 
