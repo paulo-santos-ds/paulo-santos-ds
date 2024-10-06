@@ -1,6 +1,7 @@
 <h1 align="left">Quem sou eu</h1>
 Oi, eu sou Paulo Roberto, apaixonado por ciência de dados e toda a criatividade que os humanos podem imaginar!
 Sou um verdadeiro geek e gosto de aprender coisas novas, adoro café.
+
 Trago minha forte aptidão para o pensamento analítico, resolução de problemas disciplinada, estilo colaborativo e fortes habilidades de comunicação.
 
 
