@@ -113,7 +113,7 @@ Atualmente em transição de carreira para Ciência de Dados.
     <a 
     </a>
     <a href="https://www.qlik.com/us/products/qlik-sense" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Qlik_Sense_logo.png" alt="Qlik Sense" width="40" height="40"/> 
+        <img src="https://digitaltoolshub.com/wp-content/uploads/2023/04/QlikSense-1200x628-1.jpg" alt="Qlik Sense" width="40" height="40"/> 
     </a>
     <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
         <img src="https://commons.wikimedia.org/wiki/File:Tableau_Logo.png#/media/File:Tableau_Logo.png" alt="Tableau" width="40" height="40"/> 
