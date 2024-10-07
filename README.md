@@ -37,8 +37,6 @@ Atualmente em transição de carreira para Ciência de Dados.
 <h3 align="left">Ferramentas:</h3>
 <p align="left">
   Power BI,
-  Qliksense,
-  Tableau,
   AWS (Amazon Web Services), 
   Docker,  
   Git, 
@@ -54,6 +52,8 @@ Atualmente em transição de carreira para Ciência de Dados.
   SQLite, 
   TensorFlow, 
   XGBoost, 
+  Qliksense,
+  Tableau,
 
 </p>
 
