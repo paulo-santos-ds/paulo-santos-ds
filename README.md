@@ -42,7 +42,6 @@ Atualmente em transição de carreira para Ciência de Dados.
   AWS (Amazon Web Services), 
   Docker,  
   Git, 
-  Hadoop, 
   Kubernetes,  
   Linux, 
   Microsoft SQL Server, 
@@ -55,7 +54,7 @@ Atualmente em transição de carreira para Ciência de Dados.
   SQLite, 
   TensorFlow, 
   XGBoost, 
-  React,
+
 </p>
 
 
@@ -111,8 +110,7 @@ Atualmente em transição de carreira para Ciência de Dados.
     <a href="https://xgboost.readthedocs.io/en/latest/" target="_blank" rel="noreferrer"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" alt="xgboost" width="40" height="40"/> 
     </a> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+    <a 
     </a>
     <a href="https://www.qlik.com/us/products/qlik-sense" target="_blank" rel="noreferrer"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Qlik_Sense_logo.png" alt="Qlik Sense" width="40" height="40"/> 
