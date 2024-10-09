@@ -21,7 +21,6 @@ Atualmente em transição de carreira para Ciência de Dados.
 - 📄 Engenheiro mecânico de formação em transição de carreira para dados: https://github.com/paulo-santos-ds
 
 
-
 <h3 align="left">Me encontre:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/prasds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paulo-roberto-data-science" height="30" width="40" /></a>
