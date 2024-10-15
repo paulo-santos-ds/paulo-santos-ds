@@ -7,6 +7,7 @@ Trago minha forte aptidão para o pensamento analítico, resolução de problema
 Gosto de um bom filme ou programa de TV criativo e ouço música.
 Atualmente em transição de carreira para Ciência de Dados.
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulo-santos-ds&label=Profile%20views&color=ffffff&style=flat" alt="paulo-santos-ds" /> </p>
 
 - 🛠️ Trabalhando com análise e visualização de dados: Sistema de recomendação de música para mídia digital
