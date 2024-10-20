@@ -2,7 +2,6 @@
 Oi, eu sou Paulo Roberto, apaixonado por ciência de dados e toda a criatividade que os humanos podem imaginar!
 Sou um verdadeiro geek e gosto de aprender coisas novas, adoro café.
 
-
 Trago minha forte aptidão para o pensamento analítico, resolução de problemas disciplinada, estilo colaborativo e fortes habilidades de comunicação.
 Gosto de um bom filme ou programa de TV criativo e ouço música.
 Atualmente em transição de carreira para Ciência de Dados.
