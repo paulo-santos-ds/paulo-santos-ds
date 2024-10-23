@@ -22,10 +22,17 @@ Atualmente em transição de carreira para Ciência de Dados.
 
 <h3 align="left">Me encontre:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/prasds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paulo-roberto-data-science" height="30" width="40" /></a>
-<a href="https://medium.com/@pras.ds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pras.ds" height="30" width="40" /></a>
-
+  <a href="https://www.linkedin.com/in/prasds" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paulo-roberto-data-science" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/@pras.ds" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pras.ds" height="30" width="40" />
+  </a>
+  <a href="https://prasds.blogspot.com/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="prasds blog" height="30" width="40" />
+  </a>
 </p>
+
 
 </p>
 
