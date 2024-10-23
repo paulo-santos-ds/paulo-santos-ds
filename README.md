@@ -16,7 +16,7 @@ Atualmente em transição de carreira para Ciência de Dados.
 
 - 💬 Pergunte-me sobre Python, SQL, Power BI, Excel,Tableau, QlikSense Ciência de Dados
 
-- 📄 Engenheiro mecânico de formação em transição de carreira para dados: https://github.com/paulo-santos-ds
+- 📄 Meu portfólio de Análise de Dados.  https://prasds.blogspot.com/
 
 
 
