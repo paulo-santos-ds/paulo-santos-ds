@@ -12,7 +12,7 @@ Atualmente em transição de carreira para Ciência de Dados.
 
 - 🌱 Atualmente estou aprendendo **Python e Machine Learning**
 
-- 👯 Trabalho como analista de TI na Positivo Tecnologia
+- 👯 Trabalho como analista de TI 
 
 - 💬 Pergunte-me sobre Python, SQL, Power BI, Excel,Tableau, QlikSense Ciência de Dados
 
