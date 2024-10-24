@@ -143,5 +143,7 @@ Sinta-se à vontade para dar uma olhada nos meus projetos abaixo:
 | Teste A-B | [Testing_A_B](https://github.com/paulo-santos-ds/Projects/blob/main/Testing_A_B_.ipynb) | `Python`, `Scikit Learn`, `Matplotlib`, `Statsmodel` | O propósito do teste A/B é comparar diferentes amostras de conteúdo e design em pares. |
 | Análise Melhores pontos para Poços de Petróleo | [Poços_Petroleo](https://github.com/paulo-santos-ds/Desenvolvimento-de-novos-po-os-de-petr-leo) | `Python`, `Scikit Learn`, `Numpy`, `Seaborn`, `Matplotlib`, `Math`  | Este projeto tem como objetivo desenvolver um modelo que possa prever o melhor local para a perfuração de poços de petróleo. Utilizando modelo de machine learning para poder prever o lucro de cada poço. |
 | Previsão de Churn | [Churn](https://github.com/paulo-santos-ds/churn) | `Python`, `Scikit Learn`, `Numpy`, `Seaborn`, `Matplotlib`, `Math` |Este projeto tem como objetivo desenvolver um modelo capaz de prever se um cliente está prestes a deixar um banco fictício. Para isso, são analisados dados sobre o comportamento passado dos clientes e rescisões de contratos com o banco. |
+| Análise Planos de Telefonia | [Plano_Telefonia](https://github.com/paulo-santos-ds/dados-telefonia) | `Python`, `Scikit Learn`, `Numpy`, `Seaborn`, `Matplotlib`, `Math` | Este projeto tem como objetivo desenvolver um modelo que possa analisar o comportamento do cliente e recomendar um dos planos mais recentes de uma companhia telefônica fictícia.|
+
 
 
