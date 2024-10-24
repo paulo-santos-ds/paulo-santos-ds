@@ -137,7 +137,7 @@ Sinta-se à vontade para dar uma olhada nos meus projetos abaixo:
 
 ## Projetos em Machine Learning e Data Science
 
-| Nome Projeto | Notebook e Link | Linguagem | Notas |
+| Nome Projeto | Notebook e Link | Ferramentas | Descrição |
 | --- | --- | --- | --- |
 | Prevendo fraude cartão de credito com regressão logística | [Fraude_Cartão](https://github.com/paulo-santos-ds/MachineLearningLogisticRegression) | `Python`, `Scikit Learn`, `Numpy`, `Seaborn` | A fraude de cartão de crédito é uma forma comum de golpe que afeta milhões de pessoas em todo o mundo. Essa fraude pode ter consequências graves, tanto para as vítimas quanto para as instituições financeiras que emitem os cartões de crédito. |
 | Teste A-B | [Testing_A_B](https://github.com/paulo-santos-ds/Projects/blob/main/Testing_A_B_.ipynb) | `Python`, `Scikit Learn`, `Matplotlib`, `Statsmodel` | O propósito do teste A/B é comparar diferentes amostras de conteúdo e design em pares. |
