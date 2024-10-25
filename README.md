@@ -1,4 +1,5 @@
 <h1 align="left">Quem sou eu</h1>
+
 Possuo pós-graduação em Estatística Aplicada e atuo na área de Análise e Ciências de Dados desde o final de 2021. Durante esse período, desenvolvi habilidades em diversas bibliotecas, incluindo Pandas, Numpy, TensorFlow, PySpark e Spark. com Inglês e Espanhol avançado.
 
 
