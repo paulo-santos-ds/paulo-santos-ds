@@ -1,10 +1,13 @@
 <h1 align="left">Quem sou eu</h1>
-Oi, eu sou Paulo Roberto, apaixonado por ciência de dados e toda a criatividade que os humanos podem imaginar!
-Sou um verdadeiro geek e gosto de aprender coisas novas, adoro café.
+Possuo pós-graduação em Estatística Aplicada e atuo na área de Análise e Ciências de Dados desde o final de 2021. Durante esse período, desenvolvi habilidades em diversas bibliotecas, incluindo Pandas, Numpy, TensorFlow, PySpark e Spark. com Inglês e Espanhol avançado.
 
-Trago minha forte aptidão para o pensamento analítico, resolução de problemas disciplinada, estilo colaborativo e fortes habilidades de comunicação.
-Gosto de um bom filme ou programa de TV criativo e ouço música.
-Atualmente em transição de carreira para Ciência de Dados.
+
+Estou finalizando Bootcamp de Cientista de Dados da TripleTen. No curso aprendi a realizar consultas em SQL e a trabalhar com as principais bibliotecas do Pyhton utilizadas para 
+análise de dados e ciência de dados (pandas, numpy, matplotlib, plotly, scipy, scikit learn, keras), e suas aplicações para manipulação, análises e testes estatísticos, 
+séries temporais, machine learning e resolução de problemas de negócios. Aprendi a construir modelos de machine learning supervisionados e não supervisionados, além de redes totalmente conectadas e redes neurais convolucionais.
+
+
+Tenho experiência em Python, SQL (BigQuery), análise estatística, criação de dashboards (Looker), auditoria, CRM (HubSpot), resolução de problemas complexos, comunicação entre áreas, gestão de projetos, automação de processos (pyhton e zapier), machine learning e modelagem preditiva.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulo-santos-ds&label=Profile%20views&color=ffffff&style=flat" alt="paulo-santos-ds" /> </p>
 
