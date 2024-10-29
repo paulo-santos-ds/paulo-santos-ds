@@ -22,7 +22,6 @@ Tenho experiência em Python, SQL (BigQuery), análise estatística, criação d
 - 📄 Meu portfólio de Análise de Dados.  https://prasds.blogspot.com/
 
 
-
 <h3 align="left">Me encontre:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/prasds" target="_blank">
