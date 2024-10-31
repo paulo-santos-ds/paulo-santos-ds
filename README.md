@@ -2,7 +2,6 @@
 
 Possuo pós-graduação em Estatística Aplicada e atuo na área de Análise e Ciências de Dados desde o final de 2021. Durante esse período, desenvolvi habilidades em diversas bibliotecas, incluindo Pandas, Numpy, TensorFlow, PySpark e Spark. com Inglês e Espanhol avançado.
 
-
 Estou finalizando Bootcamp de Cientista de Dados da TripleTen. No curso aprendi a realizar consultas em SQL e a trabalhar com as principais bibliotecas do Pyhton utilizadas para 
 análise de dados e ciência de dados (pandas, numpy, matplotlib, plotly, scipy, scikit learn, keras), e suas aplicações para manipulação, análises e testes estatísticos, 
 séries temporais, machine learning e resolução de problemas de negócios. Aprendi a construir modelos de machine learning supervisionados e não supervisionados, além de redes totalmente conectadas e redes neurais convolucionais.
@@ -123,11 +122,6 @@ Tenho experiência em Python, SQL (BigQuery), análise estatística, criação d
     </a>
 </p>
 
-
-
-
-
-
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=paulo-santos-ds&show_icons=true&locale=en&theme=tokyonight" alt="paulo-santos-dsh"p><img align="center"src="https://github-readme-streak-stats.herokuapp.com/?user=paulo-santos-ds&&theme=tokyonight" alt="paulo-santos-ds" /></p>
 
 # Projetos
@@ -146,7 +140,7 @@ Sinta-se à vontade para dar uma olhada nos meus projetos abaixo:
 | Previsão de Churn | [Churn](https://github.com/paulo-santos-ds/churn) | `Python`, `Pandas`, `Scikit Learn`, `Numpy`, `Seaborn`, `Matplotlib`, `Math` |Este projeto tem como objetivo desenvolver um modelo capaz de prever se um cliente está prestes a deixar um banco fictício. Para isso, são analisados dados sobre o comportamento passado dos clientes e rescisões de contratos com o banco. |
 | Análise Planos de Telefonia | [Plano_Telefonia](https://github.com/paulo-santos-ds/dados-telefonia) | `Python`, `Pandas`, `Scikit Learn`, `Numpy`, `Seaborn`, `Matplotlib`, `Math` | Este projeto tem como objetivo desenvolver um modelo que possa analisar o comportamento do cliente e recomendar um dos planos mais recentes de uma companhia telefônica fictícia.|
 | Análise Corridas de Taxi | [Corridas de Taxi](https://github.com/paulo-santos-ds/Analise_corrida_taxi/tree/main) |  `Python`, `Pandas`, `Scikit Learn`, `Numpy`, `Seaborn`, `Matplotlib`, `Math` | Este projeto tem como objetivo analisar os dados de um aplicativo fictício de caronas. Encontrar padrões nas informações disponíveis, entender as preferências dos passageiros e o impacto de fatores externos nas corridas.|
-| Prevendo Preços de carros | [Preco_de carro](https://github.com/paulo-santos-ds/Previsao_Preco_Carros) |  `Python`, `Pandas`, `Scikit Learn`, `Numpy`, `Seaborn`, `Matplotlib`, `Math` | Este projeto tem como objeivo orever as vendas de carros. A qualidade e velocidade de predições é crucial para o negócio. O projeto utiliza dados históricos, especificações técnicas, versões de acabamento e preços.|
+| Prevendo Preços de carros | [Preco de carro](https://github.com/paulo-santos-ds/Previsao_Preco_Carros) |  `Python`, `Pandas`, `Scikit Learn`, `Numpy`, `Seaborn`, `Matplotlib`, `Math` | Este projeto tem como objeivo prever as vendas de carros. A qualidade e velocidade de predições é crucial para o negócio. O projeto utiliza dados históricos, especificações técnicas, versões de acabamento e preços.|
 
 
 
