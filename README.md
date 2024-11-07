@@ -144,6 +144,9 @@ Sinta-se à vontade para dar uma olhada nos meus projetos abaixo:
 | Relatorio Operacional de Vendas | [Dashboard Tableau](https://github.com/paulo-santos-ds/Dashboards/tree/main) |  `Tableau`, `sql` | Este projeto tem como objetivo analisar os dados de Vendas produtos de escritorio, encontrar padrões nas informações disponíveis, entender as preferências dos clientes e o impacto de fatores externos no consumo. |
 | Relatório de Eficácia de Vendas | [Dashboard Qlik Sense](https://github.com/paulo-santos-ds/Dashboard_QlikSense) |  `Qlik Sense`, `Csv` | Este projeto visa analisar os dados de vendas de produtos agrícolas, identificando padrões nas informações disponíveis e compreender as preferências dos clientes e o impacto de fatores externos no consumo. |
 | Tradutor texto com google translator | [Tradutor de texto](https://github.com/paulo-santos-ds/Llm) |  `Python`, `streamlit`, `numpy`, `Deep_translator`, `pyngrok` | Um aplicativo web simples de tradução que converte texto do português para o inglês, construído com Streamlit e Google Translator. com este codigo e possivel traduzir texto em diversas idiomas desde que eles sejam compativeis com googgle translator. |
+| Validação de Cartão de Crédito com Azure e Streamlit | [validacao de cartão](https://github.com/paulo-santos-ds/Azure_LLM_fraude_cartao/tree/main) | `Python`, `streamlit`, `azure` | Este projeto consiste em uma aplicação web que utiliza Azure Computer Vision e Streamlit para verificar e validar informações de cartões de crédito em imagens
+
+
 
 
 
