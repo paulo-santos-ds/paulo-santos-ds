@@ -33,7 +33,6 @@ Tenho experiência em Python, SQL (BigQuery), análise estatística, criação d
   </a>
 </p>
 
-
 </p>
 
 <h3 align="left">Ferramentas:</h3>
