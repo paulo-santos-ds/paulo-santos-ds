@@ -12,7 +12,7 @@ Tenho experiência em Python, SQL (BigQuery), análise estatística, criação d
 
 - 🛠️ Trabalhando com análise e visualização de dados: Sistema de recomendação de música para mídia digital
 
-- 🌱 Atualmente estou aprendendo **Python e Machine Learning**
+- 🌱 Atualmente trabalhando com Ciência de dados, Análise Estatística, Análise de Dados 
 
 - 👯 Trabalho como analista de TI 
 
