@@ -54,7 +54,6 @@ Tenho experiência em Python, SQL (BigQuery), análise estatística, criação d
   XGBoost, 
   Qliksense,
   Tableau,
-
 </p>
 
 <p align="left"> 
