@@ -120,6 +120,7 @@ Tenho experiência em Python, SQL (BigQuery), análise estatística, criação d
 
 
 
+
 # Projetos
 
 Sinta-se à vontade para dar uma olhada nos meus projetos abaixo:
