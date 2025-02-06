@@ -9,8 +9,6 @@ séries temporais, machine learning e resolução de problemas de negócios. Apr
 
 Tenho experiência em Python, SQL (BigQuery), análise estatística, criação de dashboards Power Bi, Tableau, Qlik Sense, Ferramentas de ETL Talend e Pentaho,  resolução de problemas complexos, comunicação entre áreas, gestão de projetos, automação de processos (pyhton), machine learning e modelagem preditiva.
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulo-santos-ds&label=Profile%20views&color=ffffff&style=flat" alt="paulo-santos-ds" /> </p>
 
 - 🛠️ Trabalhando com análise e visualização de dados: Sistema de recomendação de música para mídia digital
