@@ -149,4 +149,3 @@ Sinta-se à vontade para dar uma olhada nos meus projetos abaixo:
 |Análise detalhada sobre o desempenho das músicas e dos artistas|[top 200 artistas musicais](https://github.com/paulo-santos-ds/analise-_dados_musicais/tree/main) | `Python`, `Pandas`, `Sklearn`, `Power bi` |Este dashboard oferece uma análise detalhada sobre o desempenho das músicas e dos artistas, baseado nas horas escutadas por gênero musical, região e outros critérios. Ele é útil para compreender as preferências musicais dos ouvintes, tendências regionais e o impacto de artistas específicos.|
 
 
-
