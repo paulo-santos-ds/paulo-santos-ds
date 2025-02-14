@@ -118,7 +118,6 @@ Tenho experiência em Python, SQL (BigQuery), análise estatística, criação d
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=paulo-santos-ds&show_icons=true&locale=en&theme=tokyonight" alt="paulo-santos-dsh"p><img align="center"src="https://github-readme-streak-stats.herokuapp.com/?user=paulo-santos-ds&&theme=tokyonight" alt="paulo-santos-ds" /></p>
 
 
-
 # Projetos
 
 Sinta-se à vontade para dar uma olhada nos meus projetos abaixo:
