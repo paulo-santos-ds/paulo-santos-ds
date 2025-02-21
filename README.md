@@ -18,7 +18,6 @@ Tenho experiência em Python, SQL (BigQuery), análise estatística, criação d
 
 - 💬 Pergunte-me sobre Ciência de Dados,  Análise Estatistica,  Análise de Dados, SQL,  Power BI,  Python, Tableau,  QlikSense,  Excel
 
-
 - 📄 Meu portfólio de Análise de Dados.  https://prasds.blogspot.com/
 
 <h3 align="left">Me encontre:</h3>
