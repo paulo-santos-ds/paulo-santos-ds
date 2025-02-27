@@ -125,7 +125,6 @@ Sinta-se à vontade para dar uma olhada nos meus projetos abaixo:
 # Portfolio de Projetos
 
 ## Projetos em Machine Learning e Data Science
-
 | Nome Projeto | Notebook e Link | Ferramentas | Descrição |
 | --- | --- | --- | --- |
 | Api azure para analise de sentimentos texto | [LLM analise de sentimentos](https://github.com/paulo-santos-ds/llm_azure_analise_sentimentos) | `Python`,`Pandas`, `Scikit Learn`, `Azure`, `C#` | Usar serviços de IA do Azure hospedados no Azure permite que desenvolvedores de aplicativos se concentrem na infraestrutura para seu próprio código. enquanto se beneficiam de serviços escaláveis ​​que são gerenciados pela Microsoft.|
